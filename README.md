@@ -1,5 +1,4 @@
 <h1 align="center">
-  #<img src="https://raw.githubusercontent.com/kypena/kypena/master/name.svg" alt="Tatiana " />#
    <img src="https://github.com/kypena/kypena/blob/master/name.svg" alt="Tatiana " />
 </h1>
 
