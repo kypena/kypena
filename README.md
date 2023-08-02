@@ -2,8 +2,12 @@
   <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+## Hi there, I'm Tatiana! 👋
+It's a pleasure to see you on my GitHub.
+Not long ago I made up my mind to become a Data Scientist. To achieve this ambitious goal, there is a need for deep knowledge of different fields of Mathematics(algebra), Statistics, Python (including its libraries: Pandas, Numpy, SkLearn), SQL. All that's been mentioned I'm currently studying with SENATOROVAI.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks is received at the University of Artificial Intelligence.
+
+Hope you will find this page useful and will  be glad to follow me.
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
@@ -16,10 +20,10 @@ I'm Marton, a 20 years old web developer from Hungary.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 Python, Sklearn, Pandas, Numpy
+- ⚙️ Tensorflow
+- 👁️ 
+- 💽 MySQL, SQL
 + a lot more :D
 
 ## Contact
