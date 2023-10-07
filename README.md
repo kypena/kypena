@@ -9,6 +9,10 @@ Knowledge of a variety of machine learning techniques (clustering, decision tree
 
 Hope you will find this page useful and will  be glad to follow me.
 
+## Certificates
+1. ![Tatiana Petrushkevich - Intro to Programming](https://github.com/kypena/kypena/assets/114248345/2680b749-136a-49b7-a2ca-300f4d28a0c4)
+
+
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
 - 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
