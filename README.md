@@ -10,7 +10,8 @@ Knowledge of a variety of machine learning techniques (clustering, decision tree
 Hope you will find this page useful and will  be glad to follow me.
 
 ## Certificates
-1. ![Tatiana Petrushkevich - Intro to Programming](https://github.com/kypena/kypena/assets/114248345/2680b749-136a-49b7-a2ca-300f4d28a0c4)
+1. https://www.kaggle.com/learn/certification/tatianapetrushkevich/intro-to-programming![Tatiana Petrushkevich - Intro to Programming](https://github.com/kypena/kypena/assets/114248345/2680b749-136a-49b7-a2ca-300f4d28a0c4)
+
 
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
