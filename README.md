@@ -2,7 +2,7 @@
    <img src="https://github.com/kypena/kypena/blob/master/name.svg" alt="Tatiana " />
 </h1>
 
-## Hi there, I'm Tiana! 👋
+## Hi there, I'm Tatiana! 👋
 It's a pleasure to see you on my GitHub.
 Not long ago I made up my mind to become a Data Scientist. To achieve this ambitious goal, there is a need for deep knowledge of different fields of Mathematics(algebra), Statistics, Python (including its libraries: Pandas, Numpy, SkLearn), SQL. All that's been mentioned I'm currently studying with SENATOROVAI.
 Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks is received at the University of Artificial Intelligence.
