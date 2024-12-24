@@ -15,11 +15,9 @@ Hope you will find this page useful and will  be glad to follow me.
 3. https://www.kaggle.com/learn/certification/tatianapetrushkevich/python
 
 ## Skills
-- 👨‍💻 Python, Sklearn, Pandas, Numpy
-- ⚙️ Tensorflow
-- 👁️ 
-- 💽 MySQL, SQL
-+ a lot more :D
+- Python, Sklearn, Pandas, Numpy
+- Tensorflow
+- Redash, SQL
 
 ## Contact
 - [Kaggle](https://www.kaggle.com/tatianapetrushkevich])
