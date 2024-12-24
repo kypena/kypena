@@ -23,6 +23,5 @@ Hope you will find this page useful and will  be glad to follow me.
 + a lot more :D
 
 ## Contact
-[https://t.me/Tazziyana Телеграм]
 - [Kaggle](https://www.kaggle.com/tatianapetrushkevich])
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@Tazziyana](https://t.me/Tazziyana) on Telegram
