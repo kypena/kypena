@@ -11,9 +11,8 @@ Hope you will find this page useful and will  be glad to follow me.
 
 ## Certificates
 1. https://www.kaggle.com/learn/certification/tatianapetrushkevich/intro-to-programming 
-
 2. https://lab.karpov.courses/certificate/f70ccf3a-d028-4af3-a586-e8d4f789837d/en/
-3. https://www.kaggle.com/learn/certification/tatianapetrushkevich/python #![image](https://github.com/kypena/kypena/assets/114248345/07f44007-18ef-45e7-b480-768d270237b0)
+3. https://www.kaggle.com/learn/certification/tatianapetrushkevich/python
 
 ## Skills
 - 👨‍💻 Python, Sklearn, Pandas, Numpy
