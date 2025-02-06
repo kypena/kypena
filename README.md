@@ -2,12 +2,27 @@
    <img src="https://github.com/kypena/kypena/blob/master/name.svg" alt="Tatiana " />
 </h1>
 
-## Hi there, I'm Tatiana! 👋
-It's a pleasure to see you on my GitHub.
-Not long ago I made up my mind to become a Data Scientist. To achieve this ambitious goal, there is a need for deep knowledge of different fields of Mathematics(algebra), Statistics, Python (including its libraries: Pandas, Numpy, SkLearn), SQL. All that's been mentioned I'm currently studying with SENATOROVAI.
+## Hi there, I'm Tatiana, 👋
+
+a passionate and aspiring Data Analyst. I have a strong interest in turning data into actionable insights and making data-driven decisions. This repository showcases my projects, skills, and learning journey in the field of data analysis.
+
+▎About Me
+
+I am currently learning and developing my skills in data analysis, including data cleaning, visualization, statistical analysis, and machine learning. I enjoy working with various tools and programming languages to extract meaningful information from datasets. 
 Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks is received at the University of Artificial Intelligence.
 
-Hope you will find this page useful and will  be glad to follow me.
+I am continuously learning and improving my skills through online courses, tutorials, and hands-on projects. Some resources that have helped me include:
+
+• Coursera (https://www.coursera.org/)
+
+• Kaggle (https://www.kaggle.com/)
+
+• DataCamp (https://www.datacamp.com/)
+
+• YouTube Channels (https://www.youtube.com/) (mention specific channels if relevant)
+
+
+
 
 ## Certificates
 1. https://www.kaggle.com/learn/certification/tatianapetrushkevich/intro-to-programming 
@@ -15,10 +30,22 @@ Hope you will find this page useful and will  be glad to follow me.
 3. https://www.kaggle.com/learn/certification/tatianapetrushkevich/python
 
 ## Skills
-- Python, Sklearn, Pandas, Numpy
-- Tensorflow
-- Redash, SQL
 
-## Contact
-- [Kaggle](https://www.kaggle.com/tatianapetrushkevich])
+• Programming Languages: Python
+• Data Manipulation: Pandas, NumPy
+• Data Visualization: Matplotlib, Seaborn, Power BI
+• Databases: PostgresSQL
+• Machine Learning: Scikit-learn
+• Tools: Jupyter Notebook, Google Colab, Excel
+
+## Get in Touch
+
+I love connecting with fellow data enthusiasts! Feel free to reach out to me:
+• Email: [kypena2023@gmail.com]
+
+• LinkedIn: Your LinkedIn Profile
+
+* [Kaggle](https://www.kaggle.com/tatianapetrushkevich])
 - [@Tazziyana](https://t.me/Tazziyana) on Telegram
+
+  Hope you will find this page useful and will  be glad to follow me.
