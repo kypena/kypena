@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/kypena/kypena/blob/master/name.svg" alt="Tatiana " />
+   <img src="https://github.com/kypena/kypena/blob/master/name.svg" alt=" Kypena " />
 </h1>
 
 ## Hi, I'm Tatiana 👋
