@@ -2,17 +2,16 @@
    <img src="https://github.com/kypena/kypena/blob/master/name.svg" alt="Tatiana " />
 </h1>
 
-## Hi there, I'm Tatiana 👋
+## Hi, I'm Tatiana 👋
 
-a passionate and aspiring Data Analyst. I have a strong interest in turning data into actionable insights and making data-driven decisions. This repository showcases my projects, skills, and learning journey in the field of data analysis.
-
-▎About Me
+a passionate and aspiring Data Analyst. I have a strong interest in turning data into actionable insights and making data-driven decisions. 
 
 I am currently learning and developing my skills in data analysis, including data cleaning, visualization, statistical analysis, and machine learning. I enjoy working with various tools and programming languages to extract meaningful information from datasets. 
 
 I am continuously learning and improving my skills through online courses, tutorials, and hands-on projects. 
 
 ## Certificates
+
 • https://www.kaggle.com/learn/certification/tatianapetrushkevich/intro-to-programming 
 
 • https://lab.karpov.courses/certificate/f70ccf3a-d028-4af3-a586-e8d4f789837d/en/
@@ -35,9 +34,7 @@ I am continuously learning and improving my skills through online courses, tutor
 
 ## Get in Touch
 
-I love connecting with fellow data enthusiasts! Feel free to reach out to me:
-
-• Email : kypena2023@gmail.com]
+• kypena2023@gmail.com
 
 • [Kaggle](https://www.kaggle.com/tatianapetrushkevich])
 
